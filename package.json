@@ -1,0 +1,25 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "Language Interpretation Recognition Interface",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaomiThomson/LIRIbot.git"
+  },
+  "author": "Naomi Thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaomiThomson/LIRIbot/issues"
+  },
+  "homepage": "https://github.com/NaomiThomson/LIRIbot#readme"
+}
